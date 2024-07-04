@@ -17,7 +17,6 @@ pykeyboard
 pykeyboard
 pyrogram==2.0.106
 python-dotenv
-PyYAML==5.3.1
 requests
 speedtest-cli
 spotipy
@@ -31,5 +30,4 @@ gpytranslate
 git+https://github.com/yt-dlp/yt-dlp@master
 git+https://github.com/alexmercerind/youtube-search-python@main
 git+https://github.com/joetats/youtube_search@master
-pyromod~=1.5
-telethon
+
