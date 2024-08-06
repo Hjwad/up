@@ -20,7 +20,7 @@ speedtest-cli
 spotipy
 tgcrypto
 unidecode
-git+https://github.com/yt-dlp/yt-dlp@master
+yt-dlp==2024.5.27
 git+https://github.com/alexmercerind/youtube-search-python@main
 git+https://github.com/joetats/youtube_search@master
 
